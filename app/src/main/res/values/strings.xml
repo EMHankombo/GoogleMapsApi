@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">MapBox</string>
+
+    <string name="google_maps_api">AIzaSyBuZjTFVtqPAlxJuqkm_6C-rSyJM-yiFPQ</string>
+
+    <string name="map">Go to Map</string>
+
+
+</resources>
